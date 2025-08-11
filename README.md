@@ -1,7 +1,5 @@
 # RL Crypto Trading Bot
 
- codex/document-setup-and-cli-usage
-This repository contains scaffolding for building a reinforcement learning based cryptocurrency trading bot.
 
 ## Environment Setup
 
